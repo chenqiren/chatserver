@@ -1,0 +1,11 @@
+0000000000000000000000000000000000000000 fbd7712bf6bb91b3dd4df4fc4b29f9922400aa3e qiren.chen <qiren.chen@graviti.cn> 1583327293 +0800	commit (initial): wip
+fbd7712bf6bb91b3dd4df4fc4b29f9922400aa3e 213f09610eb782e29b3f1ddf63cbe72f6707fcda chenqiren <qiren.chen@graviti.cn> 1597815394 +0800	commit: change text
+213f09610eb782e29b3f1ddf63cbe72f6707fcda eae5162d3bc99e4bc843487ef0df9352b82badba chenqiren <qiren.chen@graviti.cn> 1597911329 +0800	commit: add logger in health
+eae5162d3bc99e4bc843487ef0df9352b82badba 7d19db38aa6ae56517f1f91ab64e4ee5e1aed5f4 chenqiren <qiren.chen@graviti.cn> 1597911452 +0800	commit: add message handler in health
+7d19db38aa6ae56517f1f91ab64e4ee5e1aed5f4 76a122ac403facbe671c6fce087864fe76ac9c06 chenqiren <qiren.chen@graviti.cn> 1597912135 +0800	commit: add set message handler
+76a122ac403facbe671c6fce087864fe76ac9c06 de6f754f613e5953ae072c7ebf69ea66c443aa48 chenqiren <qiren.chen@graviti.cn> 1599449249 +0800	commit: add company wechat anonymous chat
+de6f754f613e5953ae072c7ebf69ea66c443aa48 cc891781f4f4e898ae093040511566178e9bdf98 chenqiren <qiren.chen@graviti.cn> 1599465628 +0800	commit: config docker
+cc891781f4f4e898ae093040511566178e9bdf98 497028ee9cf621f20cb346855fea748ad5788c63 chenqiren <qiren.chen@graviti.cn> 1599471668 +0800	commit: fix docker & add log file
+497028ee9cf621f20cb346855fea748ad5788c63 b1e24a43921f8104317c0318eac28277fbe0d649 chenqiren <qiren.chen@graviti.cn> 1599485483 +0800	commit: support image
+b1e24a43921f8104317c0318eac28277fbe0d649 8d280dd28485a70ccf1fa87ec1be8076bafe2130 chenqiren <qiren.chen@graviti.cn> 1599628729 +0800	commit: handle subscription event
+8d280dd28485a70ccf1fa87ec1be8076bafe2130 f3becefea6468935af55b139be607de69e952ae3 chenqiren <qiren.chen@graviti.cn> 1606806841 +0800	commit: minor change

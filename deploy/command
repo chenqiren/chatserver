@@ -1,0 +1,16 @@
+# build image
+docker build . -f deploy/Dockerfile -t chenqiren/ichat
+
+# push image to remote
+docker image push chenqiren/ichat
+
+# docker pull remote image
+docker pull chenqiren/ichat
+
+# run docker image on server
+docker run -p 80:8080 chenqiren/ichat
+# run docker image in background
+docker run -p 80:8080 -d chenqiren/ichat
+
+# check logs
+docker logs [containerId]
